@@ -1,4 +1,4 @@
-package AlgoU;
+package AlgoPrep;
 
 import java.util.Arrays;
 

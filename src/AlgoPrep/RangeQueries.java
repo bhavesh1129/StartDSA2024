@@ -1,8 +1,8 @@
-package AlgoU;
+package AlgoPrep;
 
 import java.util.Arrays;
 
-import static AlgoU.PrefixSumAlgo.findPrefixSumOptimised;
+import static AlgoPrep.PrefixSumAlgo.findPrefixSumOptimised;
 
 public class RangeQueries {
     public static void main(String[] args) {

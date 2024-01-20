@@ -1,8 +1,8 @@
-package AlgoU;
+package AlgoPrep;
 
 import java.util.Arrays;
 
-import static AlgoU.PrefixSumAlgoIn2DMatrix.findPrefixSumIn2DMatrixOptimised;
+import static AlgoPrep.PrefixSumAlgoIn2DMatrix.findPrefixSumIn2DMatrixOptimised;
 
 public class RangeQueriesIn2DMatrix {
     public static void main(String[] args) {
